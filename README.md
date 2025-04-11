@@ -3,6 +3,9 @@
 Sand-DarkRed theme that provides Eye Comfort and Focus
 
 
+
+
+
 İnstallation:
   
   1. Primary;
