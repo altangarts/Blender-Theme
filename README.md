@@ -1,4 +1,7 @@
-# Blender-Theme
+# Blender Theme
+
+Sand-DarkRed themes that provides Eye Comfort and Focus
+
 
 İnstallation:
   
