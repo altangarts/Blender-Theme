@@ -1,6 +1,6 @@
 # Blender Theme
 
-Sand-DarkRed themes that provides Eye Comfort and Focus
+Sand-DarkRed theme that provides Eye Comfort and Focus
 
 
 İnstallation:
