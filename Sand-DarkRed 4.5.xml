@@ -597,7 +597,7 @@
     </file_browser>
     <nla_editor>
       <ThemeNLAEditor
-        grid="#2a2a2a"
+        grid="#8b6a00"
         view_sliders="#969696"
         dopesheet_channel="#0f2c4d"
         dopesheet_subchannel="#7d98b3"
