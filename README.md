@@ -5,6 +5,8 @@ Sand-DarkRed theme that provides Eye Comfort and Focus
 
 -------------------------------------------------------
 
+Prerequisites
+Blender 4.2 ≥
 
 İnstallation:
   
