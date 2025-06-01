@@ -18,7 +18,7 @@ Prerequisites :  Blender 4.2 ≥
 
       -Copy files to:
        
-       C: /Users/[YOUR_USER_NAME]Apdata/Roaming/BlenderFoundation/Blender/4.5/scripts/presets/interface_theme
+       C: /Users/[YOUR_USER_NAME]Apdata/Roaming/BlenderFoundation/Blender/4.2 ≥/scripts/presets/interface_theme
 
 
  Examples
