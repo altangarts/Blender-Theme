@@ -11,7 +11,7 @@ Prerequisites :  Blender 4.2 ≥
   
   1. Primary;
 
-     -Open Blender,  Edit - Preferences - Themes - İnstall - (Choose Sand-DArkRed.xml file)
+     -Launch Blender,  Edit - Preferences - Themes - İnstall - (Choose Sand-DArkRed.xml file)
 
 
   2. Alternate;
